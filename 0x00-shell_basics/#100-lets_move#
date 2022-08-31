@@ -1,0 +1,1 @@
+#!/bin/bashfind . -type f -name '[[:upper:]]*' -exec mv -t ~/tmp/u {} +
